@@ -1,0 +1,15 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "curriculo-skill",
+  "description": "Skill de currículo para Claude Code",
+  "owner": { "name": "manoagois" },
+  "plugins": [
+    {
+      "name": "curriculo",
+      "description": "Currículo em DOCX e PDF legível por ATS, com banca de seis leitores.",
+      "source": "./",
+      "category": "productivity",
+      "author": { "name": "manoagois", "url": "https://github.com/manoagois" }
+    }
+  ]
+}

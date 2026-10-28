@@ -1,0 +1,36 @@
+{
+  "nome": "Ana Beatriz Souza",
+  "titulo": "Analista de Dados  |  Indicadores Comerciais e BI",
+  "arquivo": "Currículo - Ana Souza - Analista de Dados",
+  "contato": [
+    ["Recife/PE", "(81) 90000-0000", { "texto": "ana.souza@exemplo.com", "link": "mailto:ana.souza@exemplo.com" }],
+    [{ "texto": "linkedin.com/in/exemplo", "link": "https://linkedin.com/in/exemplo" }]
+  ],
+  "resumo": "Analista de dados com 6 anos de experiência no varejo, sendo 3 anos em atendimento ao cliente e, desde 2022, em indicadores comerciais. Monta e mantém os painéis de vendas e estoque usados pelas lojas e pela diretoria. Pós-graduada em Ciência de Dados (2024).",
+  "experiencia": [
+    { "empresa": "Rede Exemplo de Lojas — Recife/PE", "periodo": "03/2019 – atual",
+      "nota": "Varejo de móveis com 12 lojas. Admitida no atendimento e transferida para a área de dados.",
+      "cargos": [
+        { "titulo": "Analista de Dados", "periodo": "02/2022 – atual", "bullets": [
+          "Mantenho os painéis de vendas, margem e estoque por loja no Power BI.",
+          "Preparo o fechamento mensal de indicadores comerciais para a diretoria.",
+          "Escrevo consultas SQL para responder pedidos das áreas de compras e marketing."] },
+        { "titulo": "Atendimento ao Cliente", "periodo": "03/2019 – 01/2022", "bullets": [
+          "Atendi clientes por telefone, WhatsApp e e-mail, do orçamento à entrega.",
+          "Organizei a planilha de ocorrências de entrega usada pela logística."] }
+      ] }
+  ],
+  "formacao": [
+    { "titulo": "Pós-graduação em Ciência de Dados", "periodo": "2023 – 12/2024", "instituicao": "Instituição Exemplo  ·  420 h",
+      "detalhe": { "rotulo": "Trabalho final", "texto": "previsão de demanda de estoque por loja." } },
+    { "titulo": "Bacharelado em Administração", "periodo": "2014 – 12/2018", "instituicao": "Universidade Exemplo" }
+  ],
+  "secoes": [
+    { "titulo": "Habilidades", "itens": [
+      { "rotulo": "Dados", "texto": "SQL, Power BI, Excel, Python (pandas)." },
+      { "rotulo": "Negócio", "texto": "indicadores comerciais, margem, giro de estoque." } ] },
+    { "titulo": "Idiomas", "itens": [
+      { "rotulo": "Português", "texto": "nativo." },
+      { "rotulo": "Inglês", "texto": "intermediário." } ] }
+  ]
+}

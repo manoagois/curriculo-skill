@@ -1,0 +1,38 @@
+{
+  "nome": "Nome Completo da Pessoa",
+  "titulo": "Cargo-alvo  |  Área de atuação",
+  "foto": "foto.jpg",
+  "contato": [
+    ["Cidade/UF", "(00) 00000-0000", { "texto": "email@exemplo.com", "link": "mailto:email@exemplo.com" }],
+    ["Registro profissional: 000.000", { "texto": "lattes.cnpq.br/0000000000000000", "link": "http://lattes.cnpq.br/0000000000000000" }]
+  ],
+  "resumo": "Duas a quatro frases: anos de experiência, onde, foco atual e especializações.",
+  "experiencia": [
+    {
+      "empresa": "Empresa com promoções — Cidade/UF",
+      "periodo": "10/2015 – atual",
+      "nota": "Contexto curto da empresa e da trajetória dentro dela.",
+      "cargos": [
+        { "titulo": "Cargo atual", "periodo": "06/2026 – atual", "bullets": ["Atribuição real, no verbo que a pessoa usa."] },
+        { "titulo": "Cargo anterior", "periodo": "10/2015 – 05/2026", "bullets": ["Atribuição real."] }
+      ]
+    },
+    {
+      "titulo": "Cargo único em outra instituição",
+      "periodo": "2017 – 2018",
+      "nota": "Instituição",
+      "bullets": ["Atribuição real."]
+    }
+  ],
+  "formacao": [
+    { "titulo": "Especialização em ...", "periodo": "01/2026 – 07/2026", "instituicao": "Instituição  ·  360 h",
+      "detalhe": { "rotulo": "Disciplinas", "texto": "..." } },
+    { "titulo": "Bacharelado em ...", "periodo": "2010 – 12/2014", "instituicao": "Universidade" }
+  ],
+  "secoes": [
+    { "titulo": "Habilidades", "itens": [{ "rotulo": "Área", "texto": "itens separados por vírgula." }] },
+    { "titulo": "Cursos Complementares", "itens": ["Curso — Instituição  ·  50 h  ·  2019"] },
+    { "titulo": "Idiomas", "itens": [{ "rotulo": "Inglês", "texto": "nível comprovado ou declarado pela pessoa." }] },
+    { "titulo": "Produção Científica", "texto": "Parágrafo corrido." }
+  ]
+}

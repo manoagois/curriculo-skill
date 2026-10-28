@@ -1,0 +1,9 @@
+{
+  "name": "curriculo",
+  "description": "Monta currículo em DOCX e PDF legível por ATS e roda uma banca de seis leitores que tenta reprovar o currículo antes do recrutador.",
+  "version": "1.0.0",
+  "author": { "name": "manoagois", "url": "https://github.com/manoagois" },
+  "repository": "https://github.com/manoagois/curriculo-skill",
+  "license": "MIT",
+  "keywords": ["claude-code", "claude-skills", "curriculo", "cv", "resume", "ats", "portugues"]
+}
