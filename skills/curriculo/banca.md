@@ -1,10 +1,10 @@
 # Banca de leitura
 
-Seis leitores tentam reprovar o currículo, cada um sozinho. A leitura às cegas é o ponto: um subagente por leitor, todos disparados numa mensagem só, cada um recebendo apenas o texto do currículo, a vaga (se houver) e o seu papel abaixo. Ninguém vê as notas dos outros.
+Seis leitores tentam reprovar o currículo, cada um sozinho. A leitura às cegas é o ponto: um subagente por leitor, todos disparados numa mensagem só, cada um recebendo apenas o texto do currículo, o descritivo da vaga e o seu papel abaixo. No modo geral, em vez do descritivo, cada um recebe a área e o nível e lê como se avaliasse uma vaga típica daquela área. Ninguém vê as notas dos outros.
 
 ## Leitores
 
-1. **Triagem automática (ATS: Gupy, Kenoby, Indeed).** Decide se um humano chega a ver o currículo. Confere: texto lido de cima a baixo (sem colunas, tabelas ou texto em imagem); cargos, empresas e datas claros; termos-chave da vaga presentes e ausentes; contato completo; extensão. Responde APROVA ou REPROVA e até cinco motivos, cada um citando a linha.
+1. **Triagem automática (ATS: Gupy, Kenoby, Indeed).** Decide se um humano chega a ver o currículo. Confere: texto lido de cima a baixo (sem colunas, tabelas ou texto em imagem); cargos, empresas e datas claros; termos-chave da vaga (ou, no modo geral, os mais comuns nos anúncios da área) presentes e ausentes; contato completo; extensão. Responde APROVA ou REPROVA e até cinco motivos, cada um citando a linha.
 2. **Gestor da vaga.** Decide a entrevista. Responde ENTREVISTA ou NÃO, o que decidiu nos primeiros dez segundos, duas perguntas que faria na entrevista e as três linhas mais fracas (citadas).
 3. **Recrutador com 30 segundos.** Tem cem currículos hoje e lê só o terço de cima. Responde CHAMA, TALVEZ ou DESCARTA e o que faltou ver no topo.
 4. **Concorrente à mesma vaga.** Lê como rival: onde este currículo é mais fraco que o meu?

@@ -9,6 +9,9 @@ A regra central é **fidelidade antes de impacto**: cada linha precisa ser algo 
 ## O que ela faz
 
 1. **Lê as fontes**: texto, PDF, DOCX, Lattes e certificados. A versão mais recente, ou a que a pessoa editou, é a base.
+   Depois pergunta se há uma vaga específica:
+   - **Com vaga**, lê o descritivo inteiro e monta o currículo em cima dele: título, resumo, ordem dos bullets e termos da vaga onde a pessoa tem o fato. Requisito que ela não cumpre fica fora do currículo e aparece na entrega como lacuna.
+   - **Sem vaga**, monta um currículo geral, pronto para qualquer vaga da área, com os termos mais comuns nos anúncios dela.
 2. **Pergunta as lacunas** numa mensagem só. Lacuna sem resposta fica fora do arquivo e vai para a lista de pendências.
 3. **Banca de leitura**: seis leitores, cada um num subagente sem ver os outros.
 4. **Escreve o texto** com as atribuições reais do cargo, no verbo que a pessoa usa.

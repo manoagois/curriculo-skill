@@ -11,9 +11,12 @@ O currículo é da pessoa, não do agente. Cada linha precisa ser algo que ela s
 
 Leia todas as fontes enviadas (texto, PDF, DOCX, Lattes, certificados). A versão mais recente é a base; versões antigas só completam fatos que faltam, preservando a redação da pessoa. Se a pessoa já editou o arquivo (no Pages ou no Word), a edição dela é a base.
 
-Sem vaga nem cargo-alvo, faça uma pergunta antes de seguir: para qual vaga ou cargo é o currículo?
+Antes de escrever, pergunte se há uma vaga específica. Se houver, peça o descritivo completo (link, texto, PDF ou print) e leia tudo: cargo, requisitos obrigatórios e desejáveis, atividades, termos usados. Daí sai o **modo vaga**. Se não houver, use o **modo geral**.
 
-Pronto quando cada fato que vai entrar no currículo tem uma fonte: um documento, ou uma resposta da pessoa.
+- **Modo vaga.** O título repete o nome do cargo da vaga, se a pessoa tiver experiência compatível. O resumo responde aos requisitos obrigatórios que a pessoa cumpre. Os bullets que provam esses requisitos sobem para o topo de cada cargo, e os termos do descritivo entram onde a pessoa tem o fato. Requisito que ela não cumpre fica fora do currículo e vai para a entrega como lacuna, com sugestão de como tratar na entrevista ou na carta.
+- **Modo geral.** Currículo pronto para qualquer vaga da área da pessoa. O título nomeia a área e o nível ("Enfermeira Auditora", não o nome de um cargo de anúncio). O resumo cobre as competências centrais, e as habilidades usam os termos mais comuns nos anúncios da área. Diga na entrega que o currículo é geral e que, ao aparecer uma vaga, vale gerar a versão para ela.
+
+Pronto quando o modo está definido e cada fato que vai entrar no currículo tem uma fonte: um documento ou uma resposta da pessoa.
 
 ## 2. Lacunas
 
@@ -28,7 +31,6 @@ Rode a banca quando a pessoa pedir avaliação, quando o currículo for para uma
 - **Atribuição real.** Escreva o que o cargo faz, no verbo que a pessoa usa. Escopo ("única", "todas as contas", "100%") e volume só com confirmação explícita; sem número, descreva a tarefa sem quantificar. Tarefa de apoio não vira responsabilidade principal.
 - Verbo do tamanho do papel: auditoria identifica inconsistência; quem corrige o registro é a equipe assistencial.
 - Ferramenta sem certificado entra sem nível ("Pacote Office"), a menos que a pessoa declare o nível.
-- Termos-chave da vaga entram onde a pessoa tem o fato correspondente.
 - Cargos da mesma empresa ficam agrupados sob ela, com uma linha de contexto da trajetória (admissão e promoções).
 - Resumo em duas a quatro frases: anos de experiência, onde, foco atual, especializações.
 - Ordem: cabeçalho, resumo, experiência, formação, habilidades, cursos, idiomas, produção científica.
@@ -51,7 +53,7 @@ Trabalhe numa pasta no scratchpad:
    end tell'
    ```
 6. Confira o visual: divida as páginas com pypdf e gere PNG com `sips -s format png pagina.pdf --out pagina.png`; leia os PNGs. Pronto quando nenhuma seção quebra sozinha no fim de página, a foto não cobre texto e o currículo cabe em duas páginas.
-7. Grave `Curriculo - <Nome> - <Cargo>.docx` e `.pdf` na pasta das fontes. Se já existir arquivo com esse nome editado depois da última geração, use outro nome em vez de sobrescrever.
+7. Grave `Curriculo - <Nome> - <Cargo>.docx` e `.pdf` na pasta das fontes; no modo vaga, acrescente a empresa ao nome (`- <Empresa>`) para não confundir com a versão geral. Se já existir arquivo com esse nome editado depois da última geração, use outro nome em vez de sobrescrever.
 
 ## 6. Entrega
 
